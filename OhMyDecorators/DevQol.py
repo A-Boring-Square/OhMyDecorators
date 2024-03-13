@@ -1,5 +1,5 @@
 """
-This file contanes many qol things that are aspeshaly usefull if you are makeing a libary
+This file contanes many qol things that are especially usefull if you are makeing a libary
 """
 import time
 
